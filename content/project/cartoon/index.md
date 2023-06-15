@@ -1,6 +1,6 @@
 ---
 title: Mobile Legends Players
-summary: 
+summary: Mythic players free to play
 tags:
   - MLP
 date: 2022-01-01
