@@ -1,8 +1,8 @@
 ---
-title: Recommendation Systems
-summary: Write about your project here...
+title: Manjaro Linux
+summary: Great Arch based linux with optimised app
 tags:
-  - ML
+  - AS
 date: 2022-01-01
 external_link: http://github.com
 ---

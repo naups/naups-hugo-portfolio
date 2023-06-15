@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Ahmad Nauval Syahputra (冯盎会)
 
 # Is this the primary user of the site?
 superuser: true
@@ -47,10 +47,10 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/nauval_kajitsu
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://instagram.com/nauvalfsm
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -66,8 +66,8 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ahmad Nauval Syahputra is a college student at Brawijaya University. He is a handsome man. Which is interested in mobile Android kernel system development. He had a gaming habit for one game, named Mobile Legends. His achievements are having two accounts that have ranked in the same tier as Mythical Glory players with more than fifty stars.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Any encouragement in collaboration in game design and web development. I am currently interested in Golang Programming Language. He will help you with your Linux problems because he is a Linux enthusiast. Helping each other is a motto because it helps motivate us as social people.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.deodex" "newtab" >}}Download{{< /staticref >}} my resumé as a DEODEX.

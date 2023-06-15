@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Mobile Legends Players
+      tag: MLP
+    - name: Linux Enthusiast
+      tag: LE
+    - name: Arch Supremacy
+      tag: AS
 
 design:
   columns: '1'

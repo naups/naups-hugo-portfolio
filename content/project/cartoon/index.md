@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: Mobile Legends Players
+summary: 
 tags:
-  - CV
+  - MLP
 date: 2022-01-01
 external_link: http://github.com
 ---

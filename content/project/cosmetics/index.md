@@ -1,8 +1,8 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: Android Redmi 5 Kernel
+summary: Develop stable kernel and custom feature
 tags:
-  - NLP
+  - LE
 date: 2022-01-01
-external_link: http://github.com
+external_link: http://github.com/naups/xiaomi_rosy_kernel
 ---
